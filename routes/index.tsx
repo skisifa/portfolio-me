@@ -64,7 +64,7 @@ export default function Home() {
     </form>
       
       <div class="bot">
-        <h4>Made by <span style="color: rgb(10, 208, 0);">CuldaStudio</span></h4>
+        <h4>Powered by <span>CuldaStudio</span><span style="color:white;margin-left:-5px;font-size:15px">.</span></h4>
       </div>
     </body>
     <script src="./js/anime.js"></script>

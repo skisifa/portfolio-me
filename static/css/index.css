@@ -94,7 +94,6 @@ body {
     font-family: "Source Code Pro", monospace;
     font-size: 1.1rem;
     align-self: center;
-    background-color: #0c0c0c;
     color: #fff;
     text-decoration: none;
     margin: 5px;
@@ -106,12 +105,7 @@ body {
   }
   
   nav a:hover {
-    color: transparent;
-    text-shadow: -4px 4px hsla(0, 0%, 90%, 0.4), -3px 3px hsla(0, 0%, 60%, 0.2),
-      -2px 2px hsla(0, 0%, 70%, 0.2), -1px 1px hsla(0, 0%, 70%, 0.2),
-      0px 0px hsla(0, 0%, 50%, 0.5), 1px -1px hsla(0, 0%, 30%, 0.6),
-      2px -2px hsla(0, 0%, 30%, 0.7), 3px -3px hsla(0, 0%, 32%, 0.8),
-      4px -4px hsla(0, 0%, 30%, 0.9), 5px -5px hsla(0, 0%, 30%, 1);
+    color: #00ff04;
   }
   
   #terminal {
@@ -145,6 +139,20 @@ p{
     width: 700px; 
     font-family: VT323;
     font-size: 22px;
+  }
+
+.bot h4{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 15px;
+}
+.bot h4 span{
+  color: #21f124;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',sans-serif;
+  font-size: 15px;
+  background-color: #000000;
+  padding: 5px;
+  letter-spacing: 1px;
   }
   
   @keyframes blinkingText {
