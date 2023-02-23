@@ -265,7 +265,9 @@ p{
     }
     #welcome-section h2 {
       margin-top: 50px;
-      font-size: 0.5rem;
+    }
+    #welcome-section h2 .holder {
+      font-size: 0.8em;
     }
 
     .card .second p{
