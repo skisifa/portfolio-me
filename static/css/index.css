@@ -204,6 +204,7 @@ p{
     user-select: none;
     z-index: -1;
     box-shadow: 1px 1px 25px 3px #fcfcfc;
+    margin-bottom: 20px;
   }
   
   #welcome-section h1 {
