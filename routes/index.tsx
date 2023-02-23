@@ -53,7 +53,7 @@ export default function Home() {
             </div>
         </div>
         <h2 style="font-weight: bold;">ABOUT ME</h2>
-        <p>Hi,i'm Issam Lahlou, a passionate self-taught JS Progammer. my passion for System lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, excellent problem-solving skills, and code quality of the things I build.</p>
+        <p>Hi, i'm Issam Lahlou, a passionate self-taught JS Progammer. my passion for System lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, excellent problem-solving skills, and code quality of the things I build.</p>
 
         </section>
         <div class="divider">
