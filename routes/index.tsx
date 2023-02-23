@@ -41,18 +41,18 @@ export default function Home() {
             <h2 id="typer"></h2>
           </div>
           <h1>Issam<span style="color:#000000;font-weight: bold;">\|/</span>Lahlou</h1>
-          <h2 style="font-weight: bold;">MY SKILLS</h2>
+          <h2 style="font-weight: 600;margin-bottom:10px">MY SKILLS</h2>
         <div class="card">
             <div class="first">
-                <h3 style="color: #00ff04;">Full-Stack Developer</h3>
-                <h3 style="color: #00ff04; ">Logical Approach To Work</h3>
+                <h3>Full-Stack Developer</h3>
+                <h3>Logical Approach To Work</h3>
             </div>
             <div class="second">
-                <h3 style="color: #00ff04; ">Hacker</h3>
-                <h3 style="color: #00ff04; ">excellent debugging</h3>
+                <h3>Hacker</h3>
+                <h3>excellent debugging</h3>
             </div>
         </div>
-        <h2 style="font-weight: bold;">ABOUT ME</h2>
+        <h2 style="font-weight:600; margin-bottom:10px">ABOUT ME</h2>
         <p>Hey, i'm Issam Lahlou, a passionate self-taught JS Progammer. my passion for System lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, excellent problem-solving skills, and code quality of the things I build.</p>
 
         </section>
