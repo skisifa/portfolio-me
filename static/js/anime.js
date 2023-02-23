@@ -7,7 +7,6 @@ console.log("I'm Watching You Playing Here!");
 let list_letters = [
     "Dog Days Are Over.",
     "Instagram: @skisifa1",
-    "https://discord.gg/culda",
     "おれだって海賊になりたいんだよ！",
     "Yes, I am a criminal...",
     "Time is what determines security.",
