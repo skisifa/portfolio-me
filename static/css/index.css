@@ -144,6 +144,7 @@ p{
     color: rgb(243, 240, 240);
     width: 700px; 
     font-family: VT323;
+    font-size: 22px;
   }
   
   @keyframes blinkingText {
@@ -255,7 +256,7 @@ p{
     }
     #welcome-section h2 {
       margin-top: 50px;
-      font-size: 1rem;
+      font-size: 1.5rem;
     }
 
     .card .second p{
@@ -263,7 +264,8 @@ p{
     }
 
     p{
-        width: 240px;
+        width: 250px;
+        font-size: 20px;
     }
     nav a{
         display: none;
