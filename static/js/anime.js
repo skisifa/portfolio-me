@@ -10,7 +10,8 @@ let list_letters = [
     "https://discord.gg/culda",
     "おれだって海賊になりたいんだよ！",
     "Yes, I am a criminal...",
-    "Time is what determines security."
+    "Time is what determines security.",
+    "I AM A GOOD HACKER!"
 ];
 
 let letter = "Dog Days Are Over.";
