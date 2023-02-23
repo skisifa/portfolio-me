@@ -8,6 +8,11 @@
   font-weight: normal;
   font-style: normal;
 }
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 body {
     display: flex;
     flex-direction: column;
@@ -222,10 +227,8 @@ p{
     color: white;
     text-align: center;
     font-family: "arcaderegular", monospace;
-    font-size: 3em;
+    font-size: 1.5em;
     font-weight: 500;
-    padding: 0;
-    margin: 10px 0px 0px 0px;
   }
 
   
