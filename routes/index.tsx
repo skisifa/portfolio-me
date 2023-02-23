@@ -40,7 +40,7 @@ export default function Home() {
           <div class="dog">
             <h2 id="typer"></h2>
           </div>
-          <h1>Issam<span style="color:#000000;font-weight: bold;">.|.</span>Lahlou</h1>
+          <h1>Issam<span style="color:#000000;font-weight: bold;">|</span>Lahlou</h1>
           <h2 style="font-weight: bold;">MY SKILLS</h2>
         <div class="card">
             <div class="first">
