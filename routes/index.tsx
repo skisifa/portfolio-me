@@ -17,7 +17,7 @@ export default function Home() {
           <span id="blink">█</span>
           <span id="space"></span>
       
-          <a href="#welcome-section" target="_blank" id="item1" class="nav-link">Studio</a>
+          <a href="https://culda.studio" target="_blank" id="item1" class="nav-link">Studio</a>
           <a href="https://discord.gg/culda" target="_blank" id="item2" class="nav-link">Discord</a>
           <a href="https://github.com/skisifa" target="_blank" id="item3" class="nav-link">Github</a>
         </nav>
@@ -26,7 +26,7 @@ export default function Home() {
           <label id="trigger" for="menu-toggle"></label>
           <label id="burger" for="menu-toggle"></label>
           <ul id="menu">
-              <li><a href="#">STUDIO</a></li>
+              <li><a href="https://culda.studio">STUDIO</a></li>
               <li><a href="https://github.com/skisifa" target="_blank">GITHUB</a></li>
               <li><a href="https://discord.gg/culda" target="_blank">DISCORD</a></li>
           </ul>
