@@ -18,8 +18,8 @@ export default function Home() {
           <span id="space"></span>
       
           <a href="#welcome-section" target="_blank" id="item1" class="nav-link">Studio</a>
-          <a href="https://discord.com/users/SKISIFA#6666" target="_blank" id="item2" class="nav-link">Discord</a>
-          <a href="https://github.com/skisifa1" target="_blank" id="item3" class="nav-link">Github</a>
+          <a href="https://discord.gg/culda" target="_blank" id="item2" class="nav-link">Discord</a>
+          <a href="https://github.com/skisifa" target="_blank" id="item3" class="nav-link">Github</a>
         </nav>
             <div class="men">
         <input type="checkbox" id="menu-toggle"/>
@@ -27,8 +27,8 @@ export default function Home() {
           <label id="burger" for="menu-toggle"></label>
           <ul id="menu">
               <li><a href="#">STUDIO</a></li>
-              <li><a href="https://github.com/skisifa1" target="_blank">GITHUB</a></li>
-              <li><a href="https://discord.com/users/SKISIFA#6666" target="_blank">DISCORD</a></li>
+              <li><a href="https://github.com/skisifa" target="_blank">GITHUB</a></li>
+              <li><a href="https://discord.gg/culda" target="_blank">DISCORD</a></li>
           </ul>
   </div>
       </header>
@@ -64,7 +64,7 @@ export default function Home() {
     </form>
       
       <div class="bot">
-        <h4>Powered by <span>CuldaStudio</span><span style="color:white;margin-left:-5px;font-size:15px">.</span></h4>
+        <h4>Powered by <span>Culda Studio</span><span style="color:white;margin-left:-5px;font-size:15px">.</span></h4>
       </div>
     </body>
     <script src="./js/anime.js"></script>
