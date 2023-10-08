@@ -5,15 +5,13 @@
 console.log("I'm Watching You Playing Here!");
 
 let list_letters = [
-    "Dog Days Are Over.",
-    "Instagram: @skisifa1",
+    "Instagram: @skisifa",
     "おれだって海賊になりたいんだよ！",
-    "Yes, I am a criminal...",
     "Time is what determines security.",
     "I AM A GOOD HACKER!"
 ];
 
-let letter = "Dog Days Are Over.";
+let letter = "Time is what determines security.";
 
 let typer = document.getElementById("typer");
 
